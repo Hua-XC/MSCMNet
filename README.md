@@ -1,0 +1,2 @@
+# MSCMNet
+person-reid MSCMNet
