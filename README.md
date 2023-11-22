@@ -8,7 +8,7 @@ We adopt the CNN-based AGW [3] as backbone respectively.
 
 |   Datasets   | Backbone | Rank@1  | Rank@10| Rank@20  | mAP     |  mINP |  Model |  - |
 |:-------:|:---:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|#SYSU-MM01  | AGW      |  78.53% |  97.51% | 99.23% | 74.20% | 61.29% |[GoogleDrive](https://drive.google.com/file/d/1OAEmkAypXOnenN6N7y9EyO0V6Yj9olbW/view?usp=drive_link)|[Baidu Netdisk](https://pan.baidu.com/s/1frF-t4RESeFgT8j3BFnpzg?pwd=MSCM)|
+|#SYSU-MM01  | AGW      |  78.53% |  97.51% | 99.23% | 74.20% | 61.29% |[GoogleDrive](https://drive.google.com/file/d/1OAEmkAypXOnenN6N7y9EyO0V6Yj9olbW/view?usp=drive_link)|[Baidu Netdisk](https://pan.baidu.com/s/1frF-t4RESeFgT8j3BFnpzg?)|
 
 **\*The results may exhibit fluctuations due to random splitting, and further improvement can be achieved by fine-tuning the hyperparameters.**
 
