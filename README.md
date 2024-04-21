@@ -1,5 +1,5 @@
 # Multi-scale Semantic Correlation Mining network
-Pytorch code for paper "**Learning Progressive Modality-shared Transformers for Effective Visible-Infrared**
+Pytorch code for paper "**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**
 
 **Person Re-identifification**".
 
