@@ -1,5 +1,5 @@
 # Multi-scale Semantic Correlation Mining network
-Pytorch code for paper "**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**(arxiv)
+Pytorch code for paper "**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification(arxiv)**
 
 **Person Re-identifification**".
 
