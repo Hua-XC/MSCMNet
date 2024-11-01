@@ -84,7 +84,13 @@ Thanks a lot for the author's contribution.
 Please cite the following paper in your publications if it is helpful:
 
 ```
-
+Xuecheng Hua, Ke Cheng, Hu Lu, Juanjuan Tu, Yuanquan Wang, Shitong Wang,
+MSCMNet: Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification,
+Pattern Recognition,
+2024,
+111090,
+ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2024.111090.
 ```
 
 ###  6. References.
