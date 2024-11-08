@@ -1,7 +1,7 @@
 # Multi-scale Semantic Correlation Mining network
-Pytorch code for paper "**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**(arxiv)
+Pytorch code for paper "**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**(Pattern Recognition)
 
-**https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4761606**".
+**https://doi.org/10.1016/j.patcog.2024.111090**".
 
 ### 1. Results
 We adopt the CNN-based AGW [3] as backbone respectively.
